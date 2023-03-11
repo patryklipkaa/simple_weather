@@ -1,4 +1,3 @@
-import 'dart:convert';
 
 import 'package:simple_weather/domain/models/weather_model.dart';
 import '../../data/remote_data_sources/weather_remote_data_source.dart';
